@@ -1,0 +1,47 @@
+/* You can add global styles to this file, and also import other style files */
+.list-group-item.active:hover{
+  background-color: #0000FF;
+  border-color: #ffffff;
+}
+.list-group-item.active, .list-group-item.active:focus{
+  background-color: #ffffff;
+  color: #000000;
+  border-color: #f11b0ae0;
+}
+.list-group-item{
+  background-color: #0000FF;
+  border-color: #ffffff;
+}
+.btn-primary{
+  background-color: #0000FF;
+}
+.btn-primary:hover{
+  background-color: #0000FF;
+}
+h1{
+  color: #0000FF;
+}
+p{
+  color: white;
+}
+.list-group-item.active .list-group-item-text{
+  color: #4e555b;
+}
+body{
+  background-color: black;
+}
+.nav-tabs{
+  margin-top: 50px;
+}
+.nav-tabs>li{
+  margin-left: 50px;
+}
+.nav>li>a{
+  font-size: 20px;
+}
+a{
+  color: #40FF00;
+}
+body{
+  color: #ffd700;
+}

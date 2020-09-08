@@ -1,0 +1,55 @@
+<p>update works!</p>
+
+<br>
+<br>
+<br>
+<app-header [content] ="pageContent.header"></app-header>
+
+<p>Name: {{ newMovie.name }}</p>
+<p>Category: {{ newMovie.category }}</p>
+<p>Price: {{ newMovie.price }}</p>
+<p>Starcast: {{ newMovie.starcast }}</p>
+<p>Language: {{ newMovie.language }}</p>
+<p>Description: {{ newMovie.description }}</p>
+
+<form (ngSubmit)="updateMovie(newMovie)">
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="name">Name : </label>
+    <div class="col-sm-10">
+      <input [(ngModel)]="newMovie.name" class="form-control" id="name" name="name" required="required" placeholder="Enter Name">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="category">Category : </label>
+    <div class="col-sm-10">
+      <input [(ngModel)]="newMovie.category" class="form-control" id="category" name="category" required="required" placeholder="Enter Category">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="price">Price : </label>
+    <div class="col-sm-10">
+      <input [(ngModel)]="newMovie.price" class="form-control" id="price" name="price" required="required" placeholder="Enter Price">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="starcast">Starcast : </label>
+    <div class="col-sm-10">
+      <input [(ngModel)]="newMovie.starcast" class="form-control" id="starcast" name="starcast" required="required" placeholder="Enter Starcast">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="language">Language : </label>
+    <div class="col-sm-10">
+      <input [(ngModel)]="newMovie.language" class="form-control" id="language" name="language" required="required" placeholder="Enter Language">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="control-label col-sm-2" for="description">Description : </label>
+    <div class="col-sm-10">
+      <input [(ngModel)]="newMovie.description" class="form-control" id="description" name="description" required="required" placeholder="Enter Description">
+    </div>
+  </div>
+  <br>
+  <button class="btn btn-sm btn-primary">Update
+  </button>
+</form>

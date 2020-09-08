@@ -1,0 +1,39 @@
+
+<br>
+<div class="row">
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="assets/listimage1.jpeg" target="_blank">
+        <img src='assets/listimage1.jpeg' style="width:100%">
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="assets/listimage2.jpg" target="_blank">
+        <img src="assets/listimage2.jpg"  style="width:100%">
+      </a>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <a href="assets/listimage3.jpg" target="_blank">
+        <img src="assets/listimage3.jpg"  style="width:100%">
+      </a>
+    </div>
+  </div>
+</div>
+
+<button>
+  <a href="/create">Add New</a>
+</button>
+
+<ul class="list-group">
+  <li *ngFor='let movie of movies; let i=index'>
+    <a href="movie/{{movie._id}}" class="list-group-item active">
+      <h4 class="list-group-item-heading">{{movie.name}}</h4>
+      <p class="list-group-item-text">{{movie.category}}</p>
+    </a>
+  </li>
+</ul>
+

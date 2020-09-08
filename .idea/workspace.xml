@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="340e098d-78e9-4583-8dbb-891009e79864" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZavUYhESuY3xjEwo0bIyTRAGrk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\sukh thiara\Desktop\assignment1\movie-public\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sukh thiara\Desktop\mean\SukhdeepKaur_assignment2\SukhdeepKaur_assignment1\assignment1\APP_SERVER\view" />
+      <recent name="C:\Users\sukh thiara\Desktop\mean\SukhdeepKaur_assignment2\SukhdeepKaur_assignment1\assignment1\movie-public\src\app" />
+      <recent name="C:\Users\skaur0126\Downloads\assignment1\public\images" />
+      <recent name="C:\Users\skaur0126\WebstormProjects\assignment1\public\images" />
+      <recent name="C:\Users\skaur0126\WebstormProjects\assignment1\public\stylesheets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\skaur0126\WebstormProjects\assignment1\APP_SERVER\views" />
+      <recent name="C:\Users\skaur0126\WebstormProjects\assignment1\APP_SERVER\routes" />
+      <recent name="C:\Users\skaur0126\WebstormProjects\assignment1\APP_SERVER\view" />
+      <recent name="C:\Users\skaur0126\WebstormProjects\assignment1\APP_SERVER\route" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="340e098d-78e9-4583-8dbb-891009e79864" name="Default Changelist" comment="" />
+      <created>1582064958818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582064958818</updated>
+      <workItem from="1582064960914" duration="13463000" />
+      <workItem from="1582140710083" duration="4382000" />
+      <workItem from="1582145132039" duration="20000" />
+      <workItem from="1583526107393" duration="2048000" />
+      <workItem from="1583528781816" duration="2235000" />
+      <workItem from="1585090042292" duration="551000" />
+      <workItem from="1585429658440" duration="11250000" />
+      <workItem from="1585505788087" duration="59000" />
+      <workItem from="1585621422172" duration="1708000" />
+      <workItem from="1585686143043" duration="37000" />
+      <workItem from="1585693244612" duration="1542000" />
+      <workItem from="1586046630773" duration="3390000" />
+      <workItem from="1586052153120" duration="23000" />
+      <workItem from="1587169682908" duration="4329000" />
+      <workItem from="1587174118873" duration="1150000" />
+      <workItem from="1587225658180" duration="6794000" />
+      <workItem from="1587436745278" duration="8922000" />
+      <workItem from="1587488635745" duration="371000" />
+      <workItem from="1587490963240" duration="1729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/movie-public/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587173715190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587173715190" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586052166407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586052166407" />
+  </component>
+</project>

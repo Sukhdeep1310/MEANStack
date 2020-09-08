@@ -1,0 +1,11 @@
+.thumbnail img{
+  height: 200px;
+}
+
+button{
+  background-color: blue;
+  border: blue;
+  color: white;
+  margin-bottom: 20px;
+  padding: 10px;
+}

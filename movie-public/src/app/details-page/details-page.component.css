@@ -1,0 +1,22 @@
+#detailContainer{
+  border:2px solid red;
+  text-align: center;
+  padding: 5px;
+
+}
+button{
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#detailContainer p{
+  margin: 0 0 30px;
+  font-weight: bold;
+}
+label.control-label col-sm-2{
+  color:#ffd700;
+}
+.form-control{
+  margin-bottom: 10px;
+}
+
